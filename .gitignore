@@ -18,3 +18,9 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+
+.venv/
+__pycache__/
+expenses.db
+.env
+*.pyc
