@@ -1,10 +1,5 @@
 fastapi
-uvicorn[standard]
+uvicorn
+sqlalchemy
 streamlit
 requests
-sqlalchemy
-psycopg[binary]
-pydantic
-python-dotenv
-pytest
-httpx
